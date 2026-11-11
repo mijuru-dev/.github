@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+- name: 💡 Idea or suggestion
+  url: https://github.com/orgs/mijuru-dev/discussions/categories/ideas
+  about: Share ideas and vote for others in GitHub Discussions. Issues are for problems only.
+- name: 🖼️ Wallpaper request
+  url: https://github.com/orgs/mijuru-dev/discussions/categories/wallpaper-requests
+  about: Missing a category, resolution or device? Request it in GitHub Discussions.
+- name: ❓ Question
+  url: https://github.com/orgs/mijuru-dev/discussions/categories/q-a
+  about: Ask how something works in GitHub Discussions (Q&A).
+- name: 📚 Documentation
+  url: https://mijuru-dev.github.io
+  about: Guides, FAQ and troubleshooting for all Mijuru products.
+- name: ✉️ Private contact — m@mijuru.dev
+  url: https://mijuru.com
+  about: For anything you don't want to post publicly, email m@mijuru.dev.

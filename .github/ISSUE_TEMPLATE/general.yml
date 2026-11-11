@@ -1,0 +1,21 @@
+name: 🐞 Problem report
+description: Something doesn't work. Ideas and questions go to Discussions. Please write in English.
+labels: ["bug", "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are for **problems only**. Ideas, suggestions and questions → [Discussions](https://github.com/orgs/mijuru-dev/discussions).
+        Please write in **English** — a machine translation from your language is perfectly fine.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options: [mijuru.com, Browser extension, Desktop app (Linux), Mobile app, Documentation site, Not sure]
+    validations: { required: true }
+  - type: textarea
+    id: text
+    attributes:
+      label: What happened?
+      description: Steps, what you expected and what you saw instead. Screenshots help.
+    validations: { required: true }
