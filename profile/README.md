@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mijuru.dev"><img src="https://mijuru.com/logo.png" width="72" alt="Mijuru"></a>
+  <a href="https://mijuru.dev"><img src="https://mijuru-dev.github.io/assets/icon-192.png" width="88" alt="mijuru.dev"></a>
 </p>
 
 <h1 align="center">Mijuru</h1>
