@@ -4,7 +4,8 @@
   [website](https://github.com/mijuru-dev/website/issues/new/choose) ·
   [wallpapers-browser-extension](https://github.com/mijuru-dev/wallpapers-browser-extension/issues/new/choose) ·
   [wallpapers-desktop-app](https://github.com/mijuru-dev/wallpapers-desktop-app/issues/new/choose) ·
-  [wallpapers-mobile-app](https://github.com/mijuru-dev/wallpapers-mobile-app/issues/new/choose)
+  [wallpapers-mobile-app](https://github.com/mijuru-dev/wallpapers-mobile-app/issues/new/choose) ·
+  [echo-page](https://github.com/mijuru-dev/echo-page/issues/new/choose) (never paste diary text — issues are public)
 - **Ideas and suggestions** — [Discussions → Ideas](https://github.com/orgs/mijuru-dev/discussions/categories/ideas)
 - **Missing wallpapers** — [Discussions → Wallpaper requests](https://github.com/orgs/mijuru-dev/discussions/categories/wallpaper-requests)
 - **Questions** — [Discussions → Q&A](https://github.com/orgs/mijuru-dev/discussions/categories/q-a)
