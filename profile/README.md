@@ -5,7 +5,7 @@
 <h1 align="center">Mijuru</h1>
 
 <p align="center">
-  <b>Small, carefully made apps by one independent developer.</b><br>
+  <b>Small apps, carefully made.</b><br>
   Free HD, 4K and 8K wallpapers for every screen — on the web, on your phone, on your desktop and on every new tab — and Echo Page, a personal diary that looks like a paper book.<br>
   <a href="https://mijuru.dev">mijuru.dev</a> · <a href="https://mijuru.com">mijuru.com</a> · <a href="https://echopage.mijuru.dev">echopage.mijuru.dev</a> · <a href="https://mijuru-dev.github.io">Docs</a>
 </p>
@@ -33,7 +33,7 @@ Please write in **English** (a machine translation is fine). Private matters: **
 <details>
 <summary><b>Русский</b></summary>
 
-**Mijuru — приложения от независимого разработчика.** Бесплатные обои в HD, 4K и 8K для любого экрана — сайт [mijuru.com](https://mijuru.com), расширение для браузеров, приложения для Linux и Android — и [Echo Page](https://echopage.mijuru.dev/ru/), личный дневник, похожий на бумажную книгу (веб-версия; расширение для Chrome — скоро).
+**Mijuru — небольшие приложения, сделанные с заботой.** Бесплатные обои в HD, 4K и 8K для любого экрана — сайт [mijuru.com](https://mijuru.com), расширение для браузеров, приложения для Linux и Android — и [Echo Page](https://echopage.mijuru.dev/ru/), личный дневник, похожий на бумажную книгу (веб-версия; расширение для Chrome — скоро).
 Что-то не работает — создайте issue в репозитории продукта; идеи, запросы обоев и вопросы — в [Discussions](https://github.com/orgs/mijuru-dev/discussions). Пишите на английском — машинного перевода достаточно; текст из дневника в issue не вставляйте. Личные обращения — m@mijuru.dev (можно по-русски).
 Документация: [mijuru-dev.github.io](https://mijuru-dev.github.io).
 </details>
@@ -41,7 +41,7 @@ Please write in **English** (a machine translation is fine). Private matters: **
 <details>
 <summary><b>Українська</b></summary>
 
-**Mijuru — застосунки від незалежного розробника.** Безкоштовні шпалери в HD, 4K та 8K для будь-якого екрана — сайт [mijuru.com](https://mijuru.com), розширення для браузерів, застосунки для Linux та Android — і [Echo Page](https://echopage.mijuru.dev/uk/), особистий щоденник, схожий на паперову книгу (вебверсія; розширення для Chrome — незабаром).
+**Mijuru — невеликі застосунки, зроблені з турботою.** Безкоштовні шпалери в HD, 4K та 8K для будь-якого екрана — сайт [mijuru.com](https://mijuru.com), розширення для браузерів, застосунки для Linux та Android — і [Echo Page](https://echopage.mijuru.dev/uk/), особистий щоденник, схожий на паперову книгу (вебверсія; розширення для Chrome — незабаром).
 Щось не працює — створіть issue в репозиторії продукту; ідеї, запити шпалер і запитання — у [Discussions](https://github.com/orgs/mijuru-dev/discussions). Пишіть англійською — машинного перекладу достатньо; текст зі щоденника в issue не вставляйте. Особисті звернення — m@mijuru.dev (можна українською).
 Документація: [mijuru-dev.github.io](https://mijuru-dev.github.io).
 </details>
