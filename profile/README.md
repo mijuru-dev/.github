@@ -18,7 +18,7 @@
 | 🧩 | **Mijuru Wallpapers** — 4K wallpaper on every new tab | [Chrome](https://chromewebstore.google.com/detail/mijuru-wallpapers/jlkpdnlkhknaifdjfjdepbfmklfpamfh) · [Edge](https://microsoftedge.microsoft.com/addons/detail/mijuru-wallpapers/cdnegcioifbeoldnojbgcopnklpneodo) · [Firefox](https://addons.mozilla.org/firefox/addon/mijuru-wallpapers/) · Opera (in review) | [wallpapers-browser-extension](https://github.com/mijuru-dev/wallpapers-browser-extension) |
 | 🖥️ | **Wallpapers by Mijuru** — one-click wallpapers & auto-change | [Linux (Snap)](https://snapcraft.io/wallpapers-by-mijuru) · Flathub soon | [wallpapers-desktop-app](https://github.com/mijuru-dev/wallpapers-desktop-app) |
 | 📱 | **Wallpapers by Mijuru** — home & lock screen in one tap | Android (closed testing) · iOS in development | [wallpapers-mobile-app](https://github.com/mijuru-dev/wallpapers-mobile-app) |
-| 📔 | **[Echo Page](https://echopage.app)** — a personal diary that looks like a paper book; it brings entries back after a week, a month and a year | [Web](https://echopage.app/app/) · Chrome extension soon | [echo-page](https://github.com/mijuru-dev/echo-page) |
+| 📔 | **[Echo Page](https://echopage.app)** — a personal diary that looks like a paper book; it brings entries back after a week, a month and a year | [Web](https://echopage.app/app/) · [Chrome](https://chromewebstore.google.com/detail/imejjblnapgadndhmlhncfmgppjbdhlh) | [echo-page](https://github.com/mijuru-dev/echo-page) |
 
 ## Feedback
 
