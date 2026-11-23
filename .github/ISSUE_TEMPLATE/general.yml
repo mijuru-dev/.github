@@ -11,7 +11,7 @@ body:
     id: product
     attributes:
       label: Product
-      options: [mijuru.com, Browser extension (Mijuru Wallpapers), Desktop app (Linux), Mobile app, Echo Page (diary), Documentation site, Not sure]
+      options: [mijuru.com, Browser extension (Mijuru Wallpapers), Desktop app (Linux), Mobile app, Echo Page (diary), Dear Tab (family photos on new tab), Documentation site, Not sure]
     validations: { required: true }
   - type: textarea
     id: text
